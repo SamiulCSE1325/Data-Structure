@@ -1,1 +1,1 @@
-# Data-Structure
+In competitive programming, efficient data structures like arrays, stacks, queues, linked lists, trees, heaps, hash tables, and graphs are essential for optimizing performance. They help solve problems related to searching, sorting, dynamic programming, and graph traversal efficiently within time constraints.
